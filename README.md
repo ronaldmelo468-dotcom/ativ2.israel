@@ -224,8 +224,6 @@ Não foram utilizados:
 
 * ❌ CSS
 * ❌ JavaScript
-* ❌ Frameworks
-* ❌ Bibliotecas externas
 
 ---
 
